@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GulsahKilic. I'm a 3rd year Mathematics student at Middle East Technical University.
+- 👋 Hi, I’m @GulsahKilic. I'm a 4th year Mathematics student at Middle East Technical University.
 - 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning C#.
 - 📫 You can reach me by gulsah2541@gmail.com
 
 <!---
